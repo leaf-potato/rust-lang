@@ -4,6 +4,7 @@ members = [
     "03_guessing_game",
     "04_variables",
     "05_data_type",
+    "06_functions",
 ]
 
 # 设置包解析器版本
