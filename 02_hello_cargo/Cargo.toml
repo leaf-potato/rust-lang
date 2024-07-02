@@ -1,0 +1,17 @@
+# Cargo: rust的构建工具和包管理器
+# 使用TOML格式来书写cargo的配置信息
+# 
+# 常用命令:
+# cargo build: 编译bin or lib
+# cargo run: 编译 & 运行
+# cargo check: 语法检测
+
+# 包配置信息
+[package]
+name = "hello_cargo"    # 项目名称
+version = "0.1.0"       # 项目版本
+edition = "2021"        # Rust版本
+
+# 依赖配置信息
+# 代码包: crate
+[dependencies]

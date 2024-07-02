@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "02_hello_cargo"
+]
+
+# 设置包解析器版本
+resolver = "2"
