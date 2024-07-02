@@ -1,7 +1,8 @@
 [workspace]
 members = [
     "02_hello_cargo",
-    "03_guessing_game"
+    "03_guessing_game",
+    "04_variables",
 ]
 
 # 设置包解析器版本
