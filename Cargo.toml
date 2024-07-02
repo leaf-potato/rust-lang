@@ -5,6 +5,7 @@ members = [
     "04_variables",
     "05_data_type",
     "06_functions",
+    "07_branches",
 ]
 
 # 设置包解析器版本
