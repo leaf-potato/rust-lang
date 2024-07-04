@@ -8,6 +8,7 @@ members = [
     "07_branches",
     "08_loops",
     "09_ownership",
+    "10_structs"
 ]
 
 # 设置包解析器版本
