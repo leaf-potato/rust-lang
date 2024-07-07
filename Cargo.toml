@@ -9,7 +9,8 @@ members = [
     "08_loops",
     "09_ownership",
     "10_structs", 
-    "11_rectangles"
+    "11_rectangles",
+    "12_enums"
 ]
 
 # 设置包解析器版本
