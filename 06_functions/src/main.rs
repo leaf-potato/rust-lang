@@ -20,9 +20,8 @@ fn main() {
     };
     println!("the value of expr is: {}", expr);
 
-    // 表达式作为函数的返回值
     fn plus_one(x: i32) -> i32 {
-        x + 1
+        x + 1 // 表达式作为函数返回值
     }
     println!("the value of plus_one is: {}", plus_one(5));
 }

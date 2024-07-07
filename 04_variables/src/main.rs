@@ -17,7 +17,7 @@ fn main() {
     // 3. 变量隐藏
     // shadow与mut的区别:
     //  - shadow新建的变量默认也是不可变的.
-    //  - shadow实际创建新变量, 支持改变值类型.
+    //  - shadow创建新变量, 支持改变值类型.
     let x = 5;
     let x = x + 1;
     {
