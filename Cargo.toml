@@ -10,7 +10,10 @@ members = [
     "09_ownership",
     "10_structs", 
     "11_rectangles",
-    "12_enums"
+    "12_enums",
+    "13_my_project",
+    "cons_list", 
+    "playgroud",
 ]
 
 # 设置包解析器版本
